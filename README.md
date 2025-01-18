@@ -67,3 +67,4 @@ Bu loyiha **Telegram bot** yaratish uchun to'liq shablon bo'lib, Python dasturla
 Agar bu `README.md` faylini o'zgartirish yoki kengaytirish kerak bo'lsa, bildirishingiz mumkin.
 Omad:)
 >>>>>>> 1ce70cec22c42d63a81af67cea98e58cdb396eb3
+# Datafin-TelegramBot
